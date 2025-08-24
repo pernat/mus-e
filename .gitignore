@@ -209,3 +209,4 @@ postgres/
 app/.env
 .env
 .DS_Store
+assets/static
