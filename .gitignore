@@ -208,3 +208,4 @@ __marimo__/
 postgres/
 app/.env
 .env
+.DS_Store
